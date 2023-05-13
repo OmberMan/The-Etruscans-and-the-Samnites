@@ -1,17 +1,17 @@
 [
-{		"name": "Himyar",
+{		"name": "Samnite Federation",
 
-		"leaderName": "Charibael",
+		"leaderName": "Comius Castronus",
 
-		"adjective": ["Himyarite"],
+		"adjective": ["Samnite"],
 
-		"startBias": ["Desert", "Incense"],
+		"startBias": ["Grassland", "Hills"],
 
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Diplomatic",
 
-		"style": "Middle Eastern",
+		"style": "Mediterranean",
 
-                "favoredReligion": "Judaism",
+                "favoredReligion": "Hinduism",
 
  
 
@@ -53,13 +53,13 @@
 
 		"tradeRequest": "I think that's a fair offer.",
 
-		"outerColor": [	32, 34, 31],
+		"outerColor": [	36, 167, 197],
 
-		"innerColor": [	247, 198, 0],
+		"innerColor": [	174, 158, 20],
 
 		"uniqueName": "Desert Paradise",
 
-		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Incense] <after discovering [Currency]>"],
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Cattle]"],
 
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
 
