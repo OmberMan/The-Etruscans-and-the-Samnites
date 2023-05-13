@@ -1,0 +1,67 @@
+[
+{		"name": "Himyar",
+
+		"leaderName": "Charibael",
+
+		"adjective": ["Himyarite"],
+
+		"startBias": ["Desert", "Incense"],
+
+		"preferredVictoryType": "Scientific",
+
+		"style": "Middle Eastern",
+
+                "favoredReligion": "Judaism",
+
+ 
+
+		"startIntroPart1": "TBD",
+
+		"startIntroPart2": "TBD",
+
+		
+
+		"declaringWar": "You are an obstacle and you shall be removed!",
+
+		"attacked": "Disappointing...",
+
+		"defeated":  "You may take our lands, but you will never take our pride!",
+
+		"introduction":  "Welcome to my court. I bet the smell of our Incense got you here.",
+
+		
+
+		"neutralHello": "Hello, friend.",
+
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+		"neutralNo": ["No way.","Never!"],
+
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+		"hateHello": "Go on!",
+
+		"hateLetsHearIt": ["Speak!"],
+
+		"hateNo": ["I can't accept!","You need to try harder."],
+
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+
+		
+
+		"afterPeace": "Yes? A candle of peace?",
+
+		"tradeRequest": "I think that's a fair offer.",
+
+		"outerColor": [	32, 34, 31],
+
+		"innerColor": [	247, 198, 0],
+
+		"uniqueName": "Desert Paradise",
+
+		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Incense] <after discovering [Currency]>"],
+
+		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
+
+	},
+  ]
