@@ -57,9 +57,9 @@
 
 		"innerColor": [	174, 158, 20],
 
-		"uniqueName": "Desert Paradise",
+		"uniqueName": "Safinim Uinim Valgemom",
 
-		"uniques": ["Double quantity of [Incense] produced","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
+		"uniques": ["Provides a [Toutiks Peeslum] in your first [5] cities for free","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
 
 		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
 
