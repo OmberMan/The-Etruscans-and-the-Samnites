@@ -1,1 +1,13 @@
-
+{
+  "name": "Pagi Kombennio"
+  "percentStatBonus": {"culture": 10},
+  "culture": 3,
+  "requiredBuilding": "Walls",
+  "cityStrength": 7,
+  "cityHealth": 25,
+  "replaces": "Castle"
+  "cost": 160,
+  "uniques": ["Only available <with [Sforza's Castle res]>", "Only available <after discovering [Chivalry]>",
+  "Destroyed when the city is captured", "Only available <in cities without a [Castle]>",
+  "Only available <in cities without a [Imperialist Citadel]>", "Only available <in cities without a [Belgadian Citadel]>"],
+},
