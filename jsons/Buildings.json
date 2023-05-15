@@ -8,21 +8,37 @@
 },
 {
         "name": "Taurom Pagi",
-        "uniqueTo": "America",
-        "food": 1,
+        "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "percentStatBonus": {"food": 5},
-        "faith": 1,
         "cost": 0,
         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
 {
-        "name": "Capra Pagi",
+        "name": "Kaprum Pagi",
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Caprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]"],
+        "cityStrength": 4,
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]"],
+        "requiredTech": "Pottery"
+    },
+{
+        "name": "Cervum Pagi",
+        "uniqueTo": "The Samnites",
+        "requiredBuilding": "Pagi Kombennio",
+        "cost": 0,
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Food] from [Camp] tiles [in this city]"],
+        "requiredTech": "Pottery"
+    },
+{
+        "name": "Ekvine Pagi",
+        "uniqueTo": "The Samnites",
+        "requiredBuilding": "Pagi Kombennio",
+        "percentStatBonus": {"production": 5},
+        "cost": 0,
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
 ]
