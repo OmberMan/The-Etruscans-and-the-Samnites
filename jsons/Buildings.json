@@ -1,13 +1,20 @@
+[
 {
   "name": "Pagi Kombennio"
-  "percentStatBonus": {"culture": 10},
-  "culture": 3,
-  "requiredBuilding": "Walls",
-  "cityStrength": 7,
-  "cityHealth": 25,
-  "replaces": "Castle"
-  "cost": 160,
-  "uniques": ["Only available <with [Sforza's Castle res]>", "Only available <after discovering [Chivalry]>",
-  "Destroyed when the city is captured", "Only available <in cities without a [Castle]>",
-  "Only available <in cities without a [Imperialist Citadel]>", "Only available <in cities without a [Belgadian Citadel]>"],
+  "cityStrength": 1,
+  "uniqueTo": "The Samnites"
+  "uniques": ["Unbuildable",
+  "Destroyed when the city is captured", "[-25]% Unhappiness from [Population] [in this city] <when not at war>", "[-25]% Production when constructing [Military] units [in this city] <when not at war>"],
 },
+{
+        "name": "Taurom Pagi",
+        "uniqueTo": "America",
+        "food": 1,
+        "requiredBuilding": "Pagi Kombennio",
+        "percentStatBonus": {"gold": 10},
+        "faith": 1,
+        "cost": 0,
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles"],
+        "requiredTech": "Pottery"
+    },
+]
