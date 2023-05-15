@@ -18,14 +18,11 @@
         "requiredTech": "Pottery"
     },
 {
-        "name": "Taurom Pagi",
-        "uniqueTo": "America",
-        "food": 1,
+        "name": "Capra Pagi",
+        "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
-        "percentStatBonus": {"food": 5},
-        "faith": 1,
         "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Caprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
 ]
