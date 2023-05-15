@@ -33,12 +33,20 @@
         "requiredTech": "Pottery"
     },
 {
-        "name": "Ekvine Pagi",
+        "name": "Abrunu Pagi",
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
-        "percentStatBonus": {"production": 5},
         "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Abrunus] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Truffle] tiles [in this city]", "[+1 Food] from [Luxury] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
+{ 
+         "name": "Ekvine Pagi", 
+         "uniqueTo": "The Samnites", 
+         "requiredBuilding": "Pagi Kombennio", 
+         "percentStatBonus": {"production": 5}, 
+         "cost": 0, 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]"], 
+         "requiredTech": "Pottery" 
+     },
 ]
