@@ -49,4 +49,12 @@
          "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]"], 
          "requiredTech": "Pottery" 
      },
+{ 
+         "name": "Lupus Pagi", 
+         "uniqueTo": "The Samnites", 
+         "requiredBuilding": "Pagi Kombennio", 
+         "cost": 0, 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Lupa] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Truffle] tiles [in this city]", "[+1 Food] from [Luxury] tiles [in this city]"], 
+         "requiredTech": "Pottery" 
+     },
 ]
