@@ -56,11 +56,11 @@
          "requiredTech": "Pottery" 
      },
 { 
-         "name": "Elephantus Pagi", 
+         "name": "Iuenga Pagi", 
          "uniqueTo": "The Samnites", 
          "requiredBuilding": "Pagi Kombennio", 
          "cost": 0, 
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Elephantus] promotion", "Must have an owned [Ivory] within [3] tiles", "[+1 Faith] from [Ivory] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]", "[+15]% Production when constructing [All] wonders [in this city]"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Iuengus] promotion", "Must have an owned [Ivory] within [3] tiles", "[+1 Faith] from [Ivory] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]", "[+15]% Production when constructing [All] wonders [in this city]"], 
          "requiredTech": "Pottery" 
-     },
+     }, 
 ]
