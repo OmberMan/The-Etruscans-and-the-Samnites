@@ -29,7 +29,7 @@
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Food] from [Camp] tiles [in this city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Production] from [Camp] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
 {
