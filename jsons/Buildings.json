@@ -33,7 +33,7 @@
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,        
         "cannotBeBuiltWith": ["Kaprum Pagi", "Taurom Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Cervus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"],
         "requiredTech": "Agriculture"
     },
 { 
@@ -51,7 +51,7 @@
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
         "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Taurom Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Abruni] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Truffle] tiles [in this city]", "[+1 Food, +1 Gold] from [Luxury resource] tiles [in this city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Abruni] promotion", "Must have an owned [Truffles] within [3] tiles", "[+1 Faith] from [Truffles] tiles [in this city]", "[+1 Food, +1 Gold] from [Luxury resource] tiles [in this city]"],
         "requiredTech": "Agriculture"
     },
 { 
@@ -60,7 +60,7 @@
          "requiredBuilding": "Pagi Kombennio",  
          "cost": 0,
         "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinum] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]", "[+25]% Great Person generation [in this city]"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinum] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]"], 
          "requiredTech": "Agriculture" 
      },
 { 
