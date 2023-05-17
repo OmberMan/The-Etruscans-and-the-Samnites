@@ -4,7 +4,7 @@
   "cityStrength": 1,
   "cost": 250,
   "uniqueTo": "The Samnites"
-  "uniques": ["Unbuildable",
+  "uniques": ["Unbuildable", "
   "Destroyed when the city is captured", "[-25]% Unhappiness from [Population] [in this city] <when not at war>", "[-25]% Production when constructing [Military] units [in this city] <when not at war>"],
 },
 {
@@ -12,6 +12,7 @@
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+10]% Production when constructing [military] units [in this  city]"],
         "requiredTech": "Pottery"
     },
@@ -21,6 +22,7 @@
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
         "cityStrength": 5,
+        "cannotBeBuiltWith": ["Taurom Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+15]% Food is carried over after population increases [in this city]"],
         "requiredTech": "Pottery"
     },
@@ -28,8 +30,9 @@
         "name": "Cervum Pagi",
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
-        "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Faith, +1 Culture] from every specialist [in this city]"],
+        "cost": 0,        
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Taurom Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Curvus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"],
         "requiredTech": "Pottery"
     },
 { 
@@ -37,6 +40,7 @@
          "uniqueTo": "The Samnites", 
          "requiredBuilding": "Pagi Kombennio", 
          "cost": 0, 
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Taurom Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
          "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Aurochs] promotion", "Must have an owned [Bison] within [3] tiles", "[+1 Faith] from [Bison] tiles [in this city]", "[+1 Production] per [3] population [in this city]"], 
          "requiredTech": "Pottery" 
      }, 
@@ -45,15 +49,17 @@
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Abruni] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Truffle] tiles [in this city]", "[+1 Food, +1 Gold] from [Luxury] tiles [in this city]"],
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Taurom Pagi", "Iuegena Pagi"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Abruni] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Truffle] tiles [in this city]", "[+1 Food, +1 Gold] from [Luxury resource] tiles [in this city]"],
         "requiredTech": "Pottery"
     },
 { 
          "name": "Ekvine Pagi", 
          "uniqueTo": "The Samnites", 
          "requiredBuilding": "Pagi Kombennio",  
-         "cost": 0, 
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinum] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]"], 
+         "cost": 0,
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinum] promotion", "Must have an owned [Horse] within [3] tiles", "[+1 Faith] from [Horse] tiles [in this city]", "[+25]% Great Person generation [in this city]"], 
          "requiredTech": "Pottery" 
      },
 { 
@@ -61,6 +67,7 @@
          "uniqueTo": "The Samnites", 
          "requiredBuilding": "Pagi Kombennio", 
          "cost": 0, 
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Taurom Pagi", "Abrunu Pagi", "Iuegena Pagi"],
          "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Vulpes] promotion", "Must have an owned [Furs] within [3] tiles", "[+1 Faith] from [Furs] tiles [in this city]", "New [Military] units start with [10] Experience [in this city]"], 
          "requiredTech": "Pottery" 
      },
@@ -69,6 +76,7 @@
          "uniqueTo": "The Samnites", 
          "requiredBuilding": "Pagi Kombennio", 
          "cost": 0, 
+        "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Taurom Pagi"],
          "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Iuengi] promotion", "Must have an owned [Ivory] within [3] tiles", "[+1 Faith] from [Ivory] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]", "[+15]% Production when constructing [All] wonders [in this city]"], 
          "requiredTech": "Pottery" 
      }, 
