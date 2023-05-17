@@ -29,6 +29,6 @@
     },
 {
         "name": "Iuengus",
-        "uniques": ["[+30]% Strength <vs cities>", "[-5]% Strength for enemy [Land] units in adjacent [All] tiles>"]
+        "uniques": ["[+30]% Strength <vs cities>", "[-5]% Strength for enemy [Land] units in adjacent [All] tiles"]
     },	
 ]
