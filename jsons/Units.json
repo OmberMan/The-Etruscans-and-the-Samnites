@@ -1,1 +1,16 @@
-
+[
+{
+"name": "Sabellian Warrior",
+        "unitType": "Sword",
+        "replaces": "Spearman",
+        "uniqueTo": "The Samnites",
+        "movement": 2,
+        "strength": 12,
+        "cost": 56,
+        "requiredTech": "Bronze Working",
+        "upgradesTo": "Pikeman",
+        "uniques": ["[+50]% Strength <vs [Mounted] units>", "Ignores terrain cost", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "No defensive terrain penalty"],
+        "promotions": ["Drill I"],
+        "attackSound": "metalhit"
+    },
+]
