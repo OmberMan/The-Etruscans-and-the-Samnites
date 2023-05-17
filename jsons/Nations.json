@@ -1,9 +1,9 @@
 [
-{		"name": "Samnite Federation",
+{		"name": "The Samnites",
 
 		"leaderName": "Comius Castronus",
 
-		"adjective": ["Samnite"],
+		"adjective": ["Oscan"],
 
 		"startBias": ["Grassland", "Hills"],
 
@@ -11,7 +11,7 @@
 
 		"style": "Mediterranean",
 
-                "favoredReligion": "Hinduism",
+  "favoredReligion": "Hinduism",
 
  
 
@@ -20,18 +20,15 @@
 		"startIntroPart2": "TBD",
 
 		
+		"declaringWar": "Your wickedness towards our Oscan brethren ends today! Samnite Federation, m-m-m-m-morph up!",
 
-		"declaringWar": "You are an obstacle and you shall be removed!",
+		"attacked": "The Three Great Winds blow in my favor little man. You will not be walking away from this one.",
 
-		"attacked": "Disappointing...",
+		"defeated":  "Oh, gods forgive me. All is lost...",
 
-		"defeated":  "You may take our lands, but you will never take our pride!",
+		"introduction":  "If you call me a Sabine I will shit in your villa.",
 
-		"introduction":  "Welcome to my court. I bet the smell of our Incense got you here.",
-
-		
-
-		"neutralHello": "Hello, friend.",
+		"neutralHello": "The federation greets you, foreign emissary.",
 
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
 
@@ -39,7 +36,7 @@
 
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 
-		"hateHello": "Go on!",
+		"hateHello": "Hrrrrg...",
 
 		"hateLetsHearIt": ["Speak!"],
 
@@ -47,11 +44,9 @@
 
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 
-		
+		"afterPeace": "This war has cost us all too much. The next decade will be one of friendship. ",
 
-		"afterPeace": "Yes? A candle of peace?",
-
-		"tradeRequest": "I think that's a fair offer.",
+		"tradeRequest": "Is this to your liking?",
 
 		"outerColor": [	36, 167, 197],
 
@@ -59,9 +54,8 @@
 
 		"uniqueName": "Safinim Uinim Valgemom",
 
-		"uniques": ["Provides a [Toutiks Peeslum] in your first [5] cities for free","May convert Incense to Myrrh or Frankincense luxury resources","[+10]% Strength <when fighting in [Desert] tiles>", "[+15]% [Gold] from Trade Routes <during a Golden Age>", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
+		"uniques": ["Provides a [Pagi Kombennio] in your first [5] cities for free","May buy [Settler] units with [Faith] [in all cities]", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
 
-		"cities": ["Zafar","Sana'a","Ma'rib","Najran","Mocha","Haram","Haywan","Mukhwan","Yabrin","Shabwa","Wa'lan","Libna","Nashaq","Timna","Sirwah","Quarnawu","Kaminahu","Baraqish"]
-
+		"cities": ["Bovianum","Venusia","Caudium","Cluviae ","Maloenton","Luceria","Fregellae","Larinum", "Salernum"]
 	},
   ]
