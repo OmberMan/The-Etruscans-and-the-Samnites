@@ -1,1 +1,34 @@
-
+[
+{
+        "name": "Tauros",
+        "uniques": ["[+15]% Strength <when attacking>","No movement cost to pillage"],
+	},
+    {
+        "name": "Sheep",
+        "uniques": ["[+15]% Strength <when below [50] HP>", "Ignores terrain cost"]
+    },	
+    {
+        "name": "Deer",
+        "uniques": ["May withdraw before melee ([40]%)", "Ignores Zone of Control"]
+    },	
+{
+        "name": "Bison",
+        "uniques": ["[+15]% Strength <when defending>", "Unit will heal every turn, even if it performs an action"]
+    },	
+{
+        "name": "Horse",
+        "uniques": ["[+1] Movement", "Can move after attacking"]
+    },	
+{
+        "name": "Vulpes",
+        "uniques": ["[+15]% Strength <vs [Wounded] units>", "[+100]% to Flank Attack bonuses"]
+    },	
+{
+        "name": "Boar",
+        "uniques": ["[+33]% XP gained from combat", "Heals [25] damage if it kills a unit"]
+    },
+{
+        "name": "Elephant",
+        "uniques": ["[+30]% Strength <vs cities>", "[-5]% Strength for enemy [Land] units in adjacent [All] tiles>"]
+    },	
+]
