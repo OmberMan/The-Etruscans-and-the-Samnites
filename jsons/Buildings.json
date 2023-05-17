@@ -14,7 +14,7 @@
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
         "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+10]% Production when constructing [military] units [in this  city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+10]% Production when constructing [Military] units [in this city]"],
         "requiredTech": "Agriculture"
     },
 {
