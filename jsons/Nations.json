@@ -13,20 +13,19 @@
 
   "favoredReligion": "Hinduism",
 
- 
 
 		"startIntroPart1": "TBD",
 
 		"startIntroPart2": "TBD",
 
 		
-		"declaringWar": "Your wickedness towards our Oscan brethren ends today! Samnite Federation, m-m-m-m-morph up!",
+		"declaringWar": "Your wickedness and transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-M-Morph Up!",
 
-		"attacked": "The Three Great Winds blow in my favor little man. You will not be walking away from this one.",
+		"attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
 
-		"defeated":  "Oh, gods forgive me. All is lost...",
+		"defeated":  "Ohh, oh gods forgive me. All is lost...",
 
-		"introduction":  "If you call me a Sabine I will shit in your villa.",
+		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine. If you call us Sabines I will shit in your villa.",
 
 		"neutralHello": "The federation greets you, foreign emissary.",
 
@@ -44,17 +43,19 @@
 
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 
-		"afterPeace": "This war has cost us all too much. The next decade will be one of friendship. ",
+		"afterPeace": "This war has cost us all too much. \nThe next decade will be one \nof friendship, assuredly.",
 
 		"tradeRequest": "Is this to your liking?",
 
-		"outerColor": [	36, 167, 197],
+		"outerColor": [	26, 168, 172],
 
-		"innerColor": [	174, 158, 20],
+		"innerColor": [	194, 168, 23],
 
 		"uniqueName": "Safinim Uinim Valgemom",
 
 		"uniques": ["Provides a [Pagi Kombennio] in your first [5] cities for free","May buy [Settler] units with [Faith] [in all cities]", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
 		"cities": ["Bovianum","Venusia","Caudium","Cluviae ","Maloenton","Luceria","Fregellae","Larinum", "Salernum"]
 	},
