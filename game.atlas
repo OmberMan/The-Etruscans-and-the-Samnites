@@ -1,0 +1,146 @@
+
+game.png
+size: 512, 256
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Abrunu Pagi
+  rotate: false
+  xy: 4, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Aurochs Pagi
+  rotate: false
+  xy: 4, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caprus Pagi
+  rotate: false
+  xy: 148, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cervum Pagi
+  rotate: false
+  xy: 76, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ekvine Pagi
+  rotate: false
+  xy: 220, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iugena Pagi
+  rotate: false
+  xy: 220, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lupus Pagi
+  rotate: false
+  xy: 220, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Taurom Pagi
+  rotate: false
+  xy: 292, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NationIcons/The Samnites
+  rotate: false
+  xy: 364, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sabellian Warrior
+  rotate: false
+  xy: 4, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Sabellian Spearman
+  rotate: false
+  xy: 292, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Sabellian Warrior
+  rotate: false
+  xy: 292, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Abruni
+  rotate: false
+  xy: 4, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Aurochs
+  rotate: false
+  xy: 76, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Caprae
+  rotate: false
+  xy: 76, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cervus
+  rotate: false
+  xy: 148, 116
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ekvinus
+  rotate: false
+  xy: 148, 44
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Iugeni
+  rotate: false
+  xy: 292, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Taurom
+  rotate: false
+  xy: 364, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Vulpes
+  rotate: false
+  xy: 436, 188
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
