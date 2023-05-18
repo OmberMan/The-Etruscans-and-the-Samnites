@@ -18,13 +18,13 @@
         "requiredTech": "Agriculture"
     },
 {
-        "name": "Kaprum Pagi",
+        "name": "Kaprus Pagi",
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Pagi Kombennio",
         "cost": 0,
         "cityStrength": 5,
         "cannotBeBuiltWith": ["Taurom Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+15]% Food is carried over after population increases [in this city]"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+15]% Food is carried over after population increases [in this city]"],
         "requiredTech": "Agriculture"
     },
 {
@@ -60,7 +60,7 @@
          "requiredBuilding": "Pagi Kombennio",  
          "cost": 0,
         "cannotBeBuiltWith": ["Kaprum Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinum] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]"], 
          "requiredTech": "Agriculture" 
      },
 { 
