@@ -13,19 +13,15 @@
 
   "favoredReligion": "Hinduism",
 
-
-		"startIntroPart1": "TBD",
-
-		"startIntroPart2": "TBD",
-
+		"startIntroPart1": "I don't think anyone actually downloads these mods but did you know the Samnite tribes outlawed slavery? That's some pretty fucking progressive morals for an Iron Age civilization. They were known as the strongest individual fighters in the Italian peninsula, and were a regional power that could take on the Greeks, despite their federation being decentralized into four basically independent cantons during times of peace. Each one followed a different sacred creature, as the Samnite religion was distinct from that of other Italic peoples with a strong focus on animals. They're genuinely pretty interesting and underrepresented, I'd check them out.",
 		
-		"declaringWar": "Your wickedness and transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-M-Morph Up!",
+		"declaringWar": "Your wicked intentions and transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-M-Morph Up!",
 
 		"attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
 
 		"defeated":  "Ohh, oh gods forgive me. All is lost...",
 
-		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine. If you call us Sabines I will shit in your villa.",
+		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
 
 		"neutralHello": "The federation greets you, foreign emissary.",
 
@@ -35,7 +31,7 @@
 
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 
-		"hateHello": "Hrrrrg...",
+		"hateHello": "Grrr... Speak if you must. \nIf you call us Sabines I will shit in your villa.",
 
 		"hateLetsHearIt": ["Speak!"],
 
@@ -43,20 +39,20 @@
 
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 
-		"afterPeace": "This war has cost us all too much. \nThe next decade will be one \nof friendship, assuredly.",
+		"afterPeace": "This war has cost us our peoples too much. \nThe next decade will be one \nof friendship, assuredly.",
 
 		"tradeRequest": "Is this to your liking?",
 
-		"outerColor": [	26, 168, 172],
+		"outerColor": [	26, 180, 176],
 
-		"innerColor": [	194, 168, 23],
+		"innerColor": [	204, 173, 23],
 
 		"uniqueName": "Safinim Uinim Valgemom",
 
-		"uniques": ["Provides a [Pagi Kombennio] in your first [5] cities for free","May buy [Settler] units with [Faith] [in all cities]", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
+		"uniques": ["Provides a [Toutíks Kombennio] in your first [5] cities for free","May buy [Settler] units with [Faith] [in all cities]", "[+1 Faith] from every [Cattle]", "[+1 Faith] from every [Sheep]", "[+1 Faith] from every [Deer]", "[+1 Faith] from every [Bison]", "[+1 Faith] from every [Horses]", "[+1 Faith] from every [Furs]", "[+1 Faith] from every [Truffles]", "[+1 Faith] from every [Ivory]"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
-		"cities": ["Bovianum","Venusia","Caudium","Cluviae ","Maloenton","Luceria","Fregellae","Larinum", "Salernum"]
+		"cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
 	},
   ]
