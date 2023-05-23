@@ -95,20 +95,20 @@
 
 		"hateYes": ["Let it be.","This offer is too good to reject."],
 
-		"afterPeace": "I think I'm gonnnaaa REBEEEEEEEEEEEEEEEEEEL!",
+		"afterPeace": "Oh gods oh fuckj I think I'm gonnna REVOOOOOOOLT!",
 
-		"tradeRequest": "Only the best, now that the Greeks are out at least...",
+		"tradeRequest": "Only the best, at least now that the Greeks are out of the picture...",
 
 		"outerColor": [	243, 135, 51],
 
 		"innerColor": [	204, 173, 23],
 
-		"uniqueName": "The cock men.",
+		"uniqueName": "The Cock Men.",
 
-		"uniques": ["Provides a [Avif Pagi] in your first [1] cities for free","May buy [Settler] units with [Faith] [in all cities]"],
+		"uniques": ["Provides a [Avif Pagi] in your first [1] cities for free","May buy [Settler] units with [Faith] [in all cities]", "Gain [25]-[75] [Culture] <upon founding a city>", "Gain a free [Under New Management] [in annexed cities]", "May buy [Settlers] units with [Faith] [in all cities]"],
 
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
-		"cities": ["Lucania","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+		"cities": ["Lucania","Posidonia"]
 	},
 ]
