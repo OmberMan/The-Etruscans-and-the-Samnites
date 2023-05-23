@@ -55,4 +55,60 @@
 
 		"cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
 	},
-  ]
+{		"name": "Lucania",
+
+		"leaderName": "The current elected representative of the kingdom of the Lucani",
+
+		"adjective": ["Lucani"],
+
+		"startBias": ["Grassland", "Coast"],
+
+		"preferredVictoryType": "Domination",
+
+		"style": "Mediterranean",
+
+  "favoredReligion": "Catholicism",
+
+		"startIntroPart1": "D \nO \nM \nI \nA \nT \nI \nO \nN \nLook it up!",
+		
+		"declaringWar": "Aha! Get ready to be destroyed!",
+
+		"attacked": "Y-You fucking snake!",
+
+		"defeated":  "The Lucanian people will never forget your crimes! Enjoy your victory while you can...",
+
+		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+
+		"neutralHello": "I was just gonna throw out a Soprano's quote but thay would be stereotyping and I do not stand for it.",
+
+		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+
+		"neutralNo": ["No way.","Never!"],
+
+		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+
+		"hateHello": "You've got some balls showing your face here...",
+
+		"hateLetsHearIt": ["Speak!"],
+
+		"hateNo": ["I can't accept!","You need to try harder."],
+
+		"hateYes": ["Let it be.","This offer is too good to reject."],
+
+		"afterPeace": "I think I'm gonnnaaa REBEEEEEEEEEEEEEEEEEEL!",
+
+		"tradeRequest": "Only the best, now that the Greeks are out at least...",
+
+		"outerColor": [	243, 135, 51],
+
+		"innerColor": [	204, 173, 23],
+
+		"uniqueName": "The cock men.",
+
+		"uniques": ["Provides a [Avif Pagi] in your first [1] cities for free","May buy [Settler] units with [Faith] [in all cities]"],
+
+ "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
+
+		"cities": ["Lucania","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
+	},
+]
