@@ -15,7 +15,7 @@
         "cost": 4,
         "isNationalWonder": true,
         "cannotBeBuiltWith": ["Kaprus Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+10]% Production when constructing [Military] units [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+25]% Production when constructing [Military] units [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 {
@@ -66,7 +66,7 @@
          "cost": 4,
          "isNationalWonder": true,
          "cannotBeBuiltWith": ["Kaprus Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+30]% Great Person generation [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
          "requiredTech": "Agriculture" 
      },
 { 
@@ -80,8 +80,9 @@
          "requiredTech": "Agriculture" 
      },
 { 
-         "name": "Iuenga Pagi", 
+         "name": "Iuegena Pagi", 
          "uniqueTo": "The Samnites", 
+         "isNationalWonder": true,
          "requiredBuilding": "Toutíks Kombennio", 
          "cost": 4, 
         "cannotBeBuiltWith": ["Kaprus Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Taurom Pagi"],
