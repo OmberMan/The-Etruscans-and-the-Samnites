@@ -14,6 +14,8 @@
   "favoredReligion": "Hinduism",
 
 		"startIntroPart1": "I don't think anyone actually downloads these mods but did you know the Samnite tribes outlawed slavery? That's some pretty fucking progressive morals for an Iron Age civilization. They were known as the strongest individual fighters in the Italian peninsula, and were a regional power that could take on the Greeks, despite their federation being decentralized into four basically independent cantons during times of peace. Each one followed a different sacred creature, as the Samnite religion was distinct from that of other Italic peoples with a strong focus on animals. They're genuinely pretty interesting and underrepresented, I'd check them out.",
+
+	"startIntroPart2": "D \nO \nM \nI \nA \nT \nI \nO \nN \nLook it uu pp! \nOh you gonna cry? \nYoU gOnNa CrY nOw?",
 		
 		"declaringWar": "Your wicked intentions and transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-M-Morph Up!",
 
@@ -57,58 +59,57 @@
 	},
 /*{		"name": "Lucania",
 
-		"leaderName": "The current elected representative of the kingdom of the Lucani",
+	//	"leaderName": "The current elected representative of the kingdom of the Lucani",
 
-		"adjective": ["Lucani"],
+//		"adjective": ["Lucani"],
 
-		"startBias": ["Grassland", "Coast"],
+//		"startBias": ["Grassland", "Coast"],
 
-		"preferredVictoryType": "Domination",
+//		"preferredVictoryType": "Domination",
 
-		"style": "Mediterranean",
+//		"style": "Mediterranean",
 
-  "favoredReligion": "Catholicism",
+//  "favoredReligion": "Catholicism",
 
-		"startIntroPart1": "D \nO \nM \nI \nA \nT \nI \nO \nN \nLook it up!",
+//		"startIntroPart1": "D \nO \nM \nI \nA \nT \nI \nO \nN \nLook it up!",
 		
-		"declaringWar": "Aha! Get ready to be destroyed!",
+//		"declaringWar": "Aha! Get ready to be destroyed!",
 
-		"attacked": "Y-You fucking snake!",
+//		"attacked": "Y-You fucking snake!",
 
-		"defeated":  "The Lucanian people will never forget your crimes! Enjoy your victory while you can...",
+//		"defeated":  "The Lucanian people will never forget your crimes! Enjoy your victory while you can...",
 
-		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+//		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
 
-		"neutralHello": "I was just gonna throw out a Soprano's quote but thay would be stereotyping and I do not stand for it.",
+//		"neutralHello": "I was just gonna throw out a Soprano's quote but thay would be stereotyping and I do not stand for it.",
 
-		"neutralLetsHearIt": ["Yes.","Let's discuss."],
+//		"neutralLetsHearIt": ["Yes.","Let's discuss."],
 
-		"neutralNo": ["No way.","Never!"],
+//		"neutralNo": ["No way.","Never!"],
 
-		"neutralYes": ["Very good.","Of course, yes.","I accept."],
+//		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 
-		"hateHello": "You've got some balls showing your face here...",
+//		"hateHello": "You've got some balls showing your face here...",
 
-		"hateLetsHearIt": ["Speak!"],
+//		"hateLetsHearIt": ["Speak!"],
 
-		"hateNo": ["I can't accept!","You need to try harder."],
+//		"hateNo": ["I can't accept!","You need to try harder."],
 
-		"hateYes": ["Let it be.","This offer is too good to reject."],
+//		"hateYes": ["Let it be.","This offer is too good to reject."],
 
-		"afterPeace": "Oh gods oh fuckj I think I'm gonnna REVOOOOOOOLT!",
+//		"afterPeace": "Oh gods oh fuckj I think I'm gonnna REVOOOOOOOLT!",
 
-		"tradeRequest": "Only the best, at least now that the Greeks are out of the picture...",
+//		"tradeRequest": "Only the best, at least now that the Greeks are out of the picture...",
 
-		"outerColor": [	243, 135, 51],
+//		"outerColor": [	243, 135, 51],
 
-		"innerColor": [	204, 173, 23],
+//		"innerColor": [	204, 173, 23],
+//		"uniqueName": "The Cock Men.",
 
-		"uniqueName": "The Cock Men.",
+//		"uniques": ["Provides a [Avif Pagi] in your first [1] cities for free","May buy [Settler] units with [Faith] [in all cities]", "Gain [25]-[75] [Culture] <upon founding a city>", "Gain a free [Under New Management] [in annexed cities]", "May buy [Settlers] units with [Faith] [in all cities]"],
 
-		"uniques": ["Provides a [Avif Pagi] in your first [1] cities for free","May buy [Settler] units with [Faith] [in all cities]", "Gain [25]-[75] [Culture] <upon founding a city>", "Gain a free [Under New Management] [in annexed cities]", "May buy [Settlers] units with [Faith] [in all cities]"],
+// "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
- "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
-
-		"cities": ["Lucania","Posidonia"]
+	//	"cities": ["Lucania","Posidonia"]
 	},*/
 ]
