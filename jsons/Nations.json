@@ -55,7 +55,7 @@
 
 		"cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
 	},
-{		"name": "Lucania",
+/*{		"name": "Lucania",
 
 		"leaderName": "The current elected representative of the kingdom of the Lucani",
 
@@ -110,5 +110,5 @@
  "uniqueText": "+1 [Faith] for all land animal resources. \nThe first five Samnite cities become cantons, and can each choose a unique bonus and corresponding promotion for built Melee units dependant on the animal resources within city borders. \nCan purchase settlers with [Faith]",
 
 		"cities": ["Lucania","Posidonia"]
-	},
+	},*/
 ]
