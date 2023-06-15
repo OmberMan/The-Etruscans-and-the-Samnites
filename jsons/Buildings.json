@@ -26,7 +26,7 @@
         "cityStrength": 5,
         "isNationalWonder": true,
         "cannotBeBuiltWith": ["Taurom Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+15]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+25]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 {
@@ -66,7 +66,7 @@
          "cost": 4,
          "isNationalWonder": true,
          "cannotBeBuiltWith": ["Kaprus Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+30]% Great Person generation [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
          "requiredTech": "Agriculture" 
      },
 { 
