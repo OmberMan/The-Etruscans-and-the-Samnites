@@ -9,7 +9,7 @@
         "cost": 56,
         "requiredTech": "Bronze Working",
         "upgradesTo": "Pikeman",
-        "uniques": ["[+50]% Strength <vs [Mounted] units>", "Ignores terrain cost", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "No defensive terrain penalty"],
+        "uniques": ["[+50]% Strength <vs [Mounted] units>", "Ignores terrain cost", "[+15]% Strength <when fighting in [Friendly Land] tiles>", "No defensive terrain penalty"],
         "promotions": ["Drill I"],
         "attackSound": "metalhit"
     },
