@@ -5,7 +5,7 @@
   "cost": 250,
   "uniqueTo": "The Samnites"
   "uniques": ["Unbuildable", "Unsellable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[-20]% Unhappiness from [Population] [in this city] <when not at war>", "[-20]% Production when constructing [Military] units [in this city] <when not at war>"],
+  "Destroyed when the city is captured", "[-15]% Unhappiness from [Population] [in this city] <when not at war>", "[-15]% Production when constructing [Military] units [in this city] <when not at war>"],
       "requiredTech": "Agriculture"
 },
 {
