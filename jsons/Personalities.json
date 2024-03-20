@@ -1,0 +1,14 @@
+[
+  {
+                "name": "Samnite",
+                "preferredVictoryType": "Diplomatic",
+                "food": 6,
+                "production": 5,
+                "gold": 3,
+                "culture": 5,
+                "science": 4,
+                "faith": 8,
+                "military": 7,
+                "warMongering": 6
+        },
+]
