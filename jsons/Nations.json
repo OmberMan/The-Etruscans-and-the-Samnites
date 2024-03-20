@@ -5,6 +5,8 @@
 
 		"adjective": ["Oscan"],
 
+	        "personality": "Samnite",
+
 		"startBias": ["Grassland", "Hills"],
 
 		"preferredVictoryType": "Diplomatic",
