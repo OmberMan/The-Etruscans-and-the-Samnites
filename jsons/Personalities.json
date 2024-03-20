@@ -3,15 +3,18 @@
                 "name": "Samnite",
                 "preferredVictoryType": "Diplomatic",
                 "food": 6,
-                "production": 5,
-                "gold": 3,
+                "production": 4,
+                "gold": 2,
                 "culture": 5,
                 "science": 4,
                 "faith": 8,
                 "military": 7,
-                "warMongering": 6
+                "warMongering": 6,
 "priorities": {
-    "Freedom": 20,
+    "Liberty": 10,
+    "Tradition": 10,
+    "Honor": 10,
+    "Freedom": 10,
 }
         },
 ]
