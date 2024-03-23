@@ -35,7 +35,7 @@
 
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 
-		"hateHello": "Grrr... Speak if you must. \nIf you call us Sabines I will shit in your villa.",
+		"hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
 
 		"hateLetsHearIt": ["Speak!"],
 
@@ -59,6 +59,7 @@
 
 		"cities": ["Bovianum","Venusia","Caudium","Cluviae","Maloenton","Luceria","Fregellae","Larinum","Salernum"]
 	},
+{
                 "name": "Etruscans",
                 "leaderName": "Tyrrhenus",
                 "adjective": ["Eturian"],
