@@ -111,6 +111,6 @@
 		"cost": 60,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["[+1 Happiness] per [4] population [in this city]", "Gain [5] [Faith] (modified by game speed) <upon constructing [Building] [in this city]>"]
+		"uniques": ["[+1 Happiness] per [4] population [in this city]", "Gain [80] [Faith] (modified by game speed) <upon entering a new era>"]
 	},
 ]
