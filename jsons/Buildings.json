@@ -90,11 +90,11 @@
          "requiredTech": "Agriculture" 
      }, 
 	{
-		"name": "Fanu",
+		"name": "Fanum",
 		"uniqueTo": "Etruscans"
 		"greatPersonPoints": {"Great Merchant": 1},
 		"maintenance": 0,
-  "cost": 100,
+                "cost": 100,
 		"hurryCostModifier": 100,
 		"uniques": ["Unsellable", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Excess Food converted to Production when under construction", "Cost increases by [20] per owned city", "Gain [35]-[215] [Gold]", "Gain [70]-[120] [Culture]", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Construction",
@@ -103,7 +103,7 @@
         ]
 	},
 {
-		"name": "Monumental Complex",
+		"name": "Hypogeum",
 		"uniqueTo": "Etruscans",
 		"replaces": "Shrine",
 		"culture": 1,
