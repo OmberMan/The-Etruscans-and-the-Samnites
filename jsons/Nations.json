@@ -72,9 +72,9 @@
         "startIntroPart2": "",
 
         "declaringWar": "Unfortunately, your time has come; it is foretold in the stars.",
-                "attacked": "Hm. Yet another unenlightened upstart thinking themselves the the ones to finally supercede us. \nUs, the venerable Etruscans, after a millennia. \nHow very predictable.",
+                "attacked": "Hm. Another unenlightened upstart thinks themselves the ones to finally supercede us, \nthe venerable Etruscans, after a millennia. \nHow unsuprising.",
                 "defeated": "When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy",
-                "introduction": "I am Tyrrhenus, and you are in my part of lands of Eturia. \nBut fear not, for you came to a land of civilization and hospitality in a sea of rabble-rousers."
+                "introduction": "I am Tyrrhenus, and you are in my slice  Eturia. \nBut fear not, for you came to a land of civilization and hospitality in a sea of rabble-rousers."
                 "neutralHello": "What may I do for you, friendo.", 
 /*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
                 "hateHello": "Oh... it's you people. \nCan't you find someone less wealthy to pester?",
@@ -86,7 +86,7 @@
 
                 "favouredReligion": "Christianity",
                 "uniqueName": "Etruscan League",
-	        "uniqueText": "Cities outside your capital suffer -15% [Gold] and [Production] and a further -25% [Production] towards military land units, but receive a weaker version of the palace and produce -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and city state allies yield +40% of their [Gold] output. +1 [Gold] and +1 [Culture] from [Marble].",
+	        "uniqueText": "Non-Capital cities suffer -15% [Gold] and [Production] plus -25% [Production] of military land units, \nbut get a weaker version of the palace and -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and allied city state yield +40% of their [Gold] output. \n+1 [Gold] and +1 [Culture] from [Marble].",
                 "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+2 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "Each city founded increases culture cost of policies [-40]% less than normal", "[+40]% Unhappiness from [Population] [in capital]", "[-40]% Unhappiness from [Population] [in all non-occupied cities]", "[-2 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", "[+40]% [Gold] from City-States", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-20]% Production when constructing [{Military} {Land}] units [in all cities]", "[+20]% Production when constructing [{Military} {Land}] units [in capital]", "[+2 Gold, +1 Food, +1 Culture] from each Trade Route <when not at war>", "[Great Merchant] is earned [+40]% faster <when not at war>", "[+1 Gold, +1 Culture] on [Marble]"],
                 "cities": ["Tarchuna","Vetluna","Veii","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
                 "Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
