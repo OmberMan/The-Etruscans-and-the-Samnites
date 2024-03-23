@@ -89,4 +89,28 @@
          "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Iuengi] promotion", "Must have an owned [Ivory] within [3] tiles", "[+1 Faith] from [Ivory] tiles [in this city]", "[+10]% Production when constructing [All] buildings [in this city]", "[+15]% Production when constructing [All] wonders [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
          "requiredTech": "Agriculture" 
      }, 
+	{
+		"name": "Fanu",
+		"uniqueTo": "Etruscans"
+		"greatPersonPoints": {"Great Merchant": 1},
+		"maintenance": 0,
+  "cost": 100,
+		"hurryCostModifier": 100,
+		"uniques": ["Unsellable", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Excess Food converted to Production when under construction", "Cost increases by [20] per owned city", "Gain [35]-[215] [Gold]", "Gain [70]-[120] [Culture]", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
+		"requiredTech": "Construction",
+		"civilopediaText": [
+			{"text": "Don't say it. Don't even think it. If you do this mod will crash your game, and all your save files will explode. I'm warning you."},
+        ]
+	},
+{
+		"name": "Monumental Complex",
+		"uniqueTo": "Etruscans",
+		"replaces": "Shrine",
+		"culture": 1,
+  "faith": 1,
+		"cost": 60,
+		"hurryCostModifier": 40,
+		"maintenance": 2,
+		"uniques": ["[+1 Happiness] per [4] population [in this city]", "Gain [25] [Faith] (modified by game speed) <upon adopting [policy]>"]
+	},
 ]
