@@ -1,0 +1,202 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Abrunu Pagi
+  rotate: false
+  xy: 1575, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Aurochs Pagi
+  rotate: false
+  xy: 740, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caprus Pagi
+  rotate: false
+  xy: 1647, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cervum Pagi
+  rotate: false
+  xy: 740, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ekvine Pagi
+  rotate: false
+  xy: 1575, 271
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Fanum
+  rotate: false
+  xy: 991, 167
+  size: 312, 312
+  orig: 312, 312
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hypogenum
+  rotate: false
+  xy: 4, 4
+  size: 656, 475
+  orig: 656, 475
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iuegena Pagi
+  rotate: false
+  xy: 1719, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Iugena Pagi
+  rotate: false
+  xy: 1719, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lupus Pagi
+  rotate: false
+  xy: 884, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+BuildingIcons/Taurom Pagi
+  rotate: false
+  xy: 1791, 415
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+NationIcons/Etruscans
+  rotate: false
+  xy: 668, 164
+  size: 315, 315
+  orig: 315, 315
+  offset: 0, 0
+  index: -1
+NationIcons/The Samnites
+  rotate: false
+  xy: 884, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Italic City Guard
+  rotate: false
+  xy: 1311, 183
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Units/Sabellian Warrior
+  rotate: false
+  xy: 1575, 231
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UnitIcons/Italic City Guard
+  rotate: false
+  xy: 1311, 223
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+UnitIcons/Sabellian Spearman
+  rotate: false
+  xy: 1647, 271
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitIcons/Sabellian Warrior
+  rotate: false
+  xy: 1647, 271
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Abruni
+  rotate: false
+  xy: 668, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Aurochs
+  rotate: false
+  xy: 668, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Caprae
+  rotate: false
+  xy: 1575, 343
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Kaprae
+  rotate: false
+  xy: 1575, 343
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cervus
+  rotate: false
+  xy: 812, 92
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Ekvinus
+  rotate: false
+  xy: 1647, 343
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Iuengi
+  rotate: false
+  xy: 812, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Iugeni
+  rotate: false
+  xy: 812, 20
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Taurom
+  rotate: false
+  xy: 1719, 343
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Vulpes
+  rotate: false
+  xy: 1719, 271
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
