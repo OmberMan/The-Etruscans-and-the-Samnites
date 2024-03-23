@@ -13,4 +13,21 @@
         "promotions": ["Drill I"],
         "attackSound": "metalhit"
     },
+	{
+		"name": "Italic City Guard",
+		"uniqueTo": "Etruscans"
+		"replaces": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 13,
+		"cost": 80,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+  "uniques": ["[+10]% Strength <when defending>", "[+15]% Strength <within [2] tiles of a [City center]>"],
+		"hurryCostModifier": 35,
+		"attackSound": "nonmetalhit",
+		"civilopediaText": [
+			{"text": "What a nice hat."},
+        ]
+	},
 ]
