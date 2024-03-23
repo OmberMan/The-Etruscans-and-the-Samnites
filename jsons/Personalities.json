@@ -17,4 +17,22 @@
     "Freedom": 10,
 }
         },
+{
+                "name": "Tyrrhenus",
+                "preferredVictoryType": "Diplomatic",
+                "food": 4,
+                "production": 4,
+                "gold": 9,
+                "culture": 7,
+                "science": 6,
+                "faith": 5,
+                "military": 2,
+                "warMongering": 3,
+"priorities": {
+    "Patronage": 20,
+    "Exploration": 10,
+    "Commerce": 20,
+    "Aesthetics": 10
+}
+        }
 ]
