@@ -70,37 +70,15 @@
         "startIntroPart1": "",
         "startIntroPart2": "",
 
-        "declaringWar": "The gods have chosen me for this endeavour.",
-                "attacked": "We will make such inflicting blows to your morale and sanity.",
-                "defeated": "You may destroy our monuments, erase our language from the world, but the gods have favor in us.",
-                "introduction": 
-"Hello?
-\nListen!
-\nListen to the stars!
-\nIt's right in front of me!
-\nI am Tarchon, king of the Etruscans. To you we may be aliens, but do not worry, we are a friendly people.",
-                "neutralHello": "When I'm out there all alone
-\nAnd feeling far from home
-\nI'm fading into blue
-\nAnd there's nothing I can do Then out on the sky like a flash
-\nSending me high, high, high
-\nYou rescue me
-\nYou saved me from a certain tragedy
-\nI get messages from the stars
-\nWhen you're making love to me
-\nI get messages from the stars
-\nYou must be from another galaxy",
-                "hateHello":
-"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found
-\nThen out on the sky like a flash
-\nSending me high, high, high
-\nYou rescue me
-\nYou saved me from a certain tragedy
-\nI get messages from the stars
-\nWhen you're making love to me
-\nI get messages from the stars
-\nYou must be from another galaxy",
-                "tradeRequest": "Let us put aside our various disagreements and exchange resources for the betterment of our peoples.",
+        "declaringWar": "Unfortunately, your time has come; it is foretold in the stars.",
+                "attacked": "Hm. Yet nother unenlightened upstart that think themselves the \nones that will finally supercede my venerable people after a millennia. \nHow very predictable.",
+                "defeated": "When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy",
+                "introduction": "I am Tyrrhenus, and you are in my part of lands of Eturia. But fear not, for you came to a land of civilization and hospitality in a sea of rabble-rousers."
+                "neutralHello": "What may I do for you, friendo.", 
+/*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
+                "hateHello": "Oh... it's you people. \nCan't you find someone less wealthy to pester?",
+/*"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found \nThen out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
+                "tradeRequest": "Come, sit with us to talk trade, there's nothing more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nWe're fun, \n"we have fun here",
 
         "outerColor": [254,222,245],
         "innerColor": [14,114,244],
