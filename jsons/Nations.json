@@ -107,10 +107,7 @@
 
                 "favouredReligion": "Christianity",
                 "uniqueName": "Etruscan League",
-                "uniques": ["[-40]% [Gold] [in all cities]", 
-                                        "[+40]% [Gold] [in capital]", "[+1 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]",
-                                        "[-1 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", 
-                                        "[+40]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities connected to capital] <when not at war>", "[+1 Gold, +1 Culture] from each Trade Route <when not at war>"]
+                "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+20]% Production when constructing [{Military} {Land}] units [in capital]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+2 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "[+60]% Unhappiness from [Population] [in capital]", "[-60]% Unhappiness from [Population] [in all non-occupied cities]", "[-2 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", "[+35]% [Gold] from City-States", "[-20]% Production when constructing [{Military} {Land}] units [in all cities]", "[+20]% Production when constructing [{Military} {Land}] units [in capital]", "[+2 Gold, +1 Culture] from each Trade Route <when not at war>", "[+1 Gold, +2 Culture] on [Marble]"]
                 "cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
                 "Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
