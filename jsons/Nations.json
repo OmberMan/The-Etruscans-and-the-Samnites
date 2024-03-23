@@ -72,22 +72,23 @@
         "startIntroPart2": "",
 
         "declaringWar": "Unfortunately, your time has come; it is foretold in the stars.",
-                "attacked": "Hm. Yet nother unenlightened upstart that think themselves the \nones that will finally supercede my venerable people after a millennia. \nHow very predictable.",
+                "attacked": "Hm. Yet another unenlightened upstart thinking themselves the the ones to finally supercede us. \nUs, the venerable Etruscans, after a millennia. \nHow very predictable.",
                 "defeated": "When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy",
-                "introduction": "I am Tyrrhenus, and you are in my part of lands of Eturia. But fear not, for you came to a land of civilization and hospitality in a sea of rabble-rousers."
+                "introduction": "I am Tyrrhenus, and you are in my part of lands of Eturia. \nBut fear not, for you came to a land of civilization and hospitality in a sea of rabble-rousers."
                 "neutralHello": "What may I do for you, friendo.", 
 /*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
                 "hateHello": "Oh... it's you people. \nCan't you find someone less wealthy to pester?",
 /*"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found \nThen out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
-                "tradeRequest": "Come, sit with us to talk trade, there's nothing more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nWe're fun, \nwe have fun here.",
+                "tradeRequest": "Come sit with us to talk trade, for nothing's more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nAhaa, we're fun, \nwe have fun here.",
 
         "outerColor": [254,222,245],
         "innerColor": [14,114,244],
 
                 "favouredReligion": "Christianity",
                 "uniqueName": "Etruscan League",
-                "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+2 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "Each city founded increases culture cost of policies [-45]% less than normal", "[+45]% Unhappiness from [Population] [in capital]", "[-45]% Unhappiness from [Population] [in all non-occupied cities]", "[-2 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", "[+45]% [Gold] from City-States", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-30]% Production when constructing [{Military} {Land}] units [in all cities]", "[+30]% Production when constructing [{Military} {Land}] units [in capital]", "[+2 Gold, +1 Food, +1 Culture] from each Trade Route <when not at war>", "[Great Merchant] is earned [+45]% faster <when not at war>", "[+1 Gold, +1 Culture] on [Marble]"]
-                "cities": ["Tarchuna","Vetluna","Veia","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
+	        "uniqueText": "Cities outside your capital suffer -15% [Gold] and [Production] and a further -25% [Production] towards military land units, but receive a weaker version of the palace and produce -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and city state allies yield +40% of their [Gold] output. +1 [Gold] and +1 [Culture] from [Marble].",
+                "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+2 Gold, +1 Culture, +1 Production, +1 Science] [in all cities]", "Each city founded increases culture cost of policies [-40]% less than normal", "[+40]% Unhappiness from [Population] [in capital]", "[-40]% Unhappiness from [Population] [in all non-occupied cities]", "[-2 Gold, -1 Culture, -1 Production, -1 Science] [in capital]", "[+40]% [Gold] from City-States", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-20]% Production when constructing [{Military} {Land}] units [in all cities]", "[+20]% Production when constructing [{Military} {Land}] units [in capital]", "[+2 Gold, +1 Food, +1 Culture] from each Trade Route <when not at war>", "[Great Merchant] is earned [+40]% faster <when not at war>", "[+1 Gold, +1 Culture] on [Marble]"],
+                "cities": ["Tarchuna","Vetluna","Veii","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
                 "Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
 /*{		"name": "Lucania",
