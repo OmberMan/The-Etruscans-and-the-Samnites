@@ -5,7 +5,7 @@
   "cost": 250,
   "uniqueTo": "The Samnites"
   "uniques": ["Unbuildable", "Unsellable", "Cannot be purchased",
-  "Destroyed when the city is captured", "[-15]% Unhappiness from [Population] [in this city] <when not at war>", "[-15]% Production when constructing [Military] units [in this city] <when not at war>"],
+  "Destroyed when the city is captured", "[-10]% Unhappiness from [Population] [in this city] <when not at war>", "[-10]% Production when constructing [Military] units [in this city] <when not at war>"],
       "requiredTech": "Agriculture"
 },
 {
@@ -26,7 +26,7 @@
         "cityStrength": 5,
         "isNationalWonder": true,
         "cannotBeBuiltWith": ["Taurom Pagi", "Cervum Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+25]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+45]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 {
@@ -36,7 +36,7 @@
         "cost": 4,
         "isNationalWonder": true,        
         "cannotBeBuiltWith": ["Kaprus Pagi", "Taurom Pagi", "Aurochs Pagi", "Ekvine Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Cervus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[-33]% Culture cost of natural border growth [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Cervus] promotion", "Must have an owned [Deer] within [3] tiles", "[+1 Faith] from [Deer] tiles [in this city]", "[+1 Culture] from [Rough terrain] tiles without [Improvement] [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 { 
@@ -66,7 +66,7 @@
          "cost": 4,
          "isNationalWonder": true,
          "cannotBeBuiltWith": ["Kaprus Pagi", "Cervum Pagi", "Aurochs Pagi", "Taurom Pagi", "Lupus Pagi", "Abrunu Pagi", "Iuegena Pagi"],
-         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[+25]% Great Person generation [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
+         "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Ekvinus] promotion", "Must have an owned [Horses] within [3] tiles", "[+1 Faith] from [Horses] tiles [in this city]", "[-40]% Culture cost of natural border growth [in this city]",  "Peeslúm", "Only available <in cities without a [Peeslúm]>"], 
          "requiredTech": "Agriculture" 
      },
 { 
@@ -96,7 +96,7 @@
 		"maintenance": 0,
                 "cost": 100,
 		"hurryCostModifier": 100,
-		"uniques": ["Unsellable", "Gain [40]-[160] [Gold] (modified by game speed) ", "Gain [80]-[120] [Culture] (modified by game speed) ", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Cost increases by [20] per owned city", "Excess Food converted to Production when under construction", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
+		"uniques": ["Unsellable", "Gain [140] [Gold] (modified by game speed)", "Gain [40]-[160] [Culture]", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Cost increases by [20] per owned city", "Excess Food converted to Production when under construction", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
 		"requiredTech": "Construction",
 		"civilopediaText": [
 			{"text": "Don't say it. Don't even think it. If you do this mod will crash your game, and all your save files will explode. I'm warning you."},
@@ -107,7 +107,7 @@
 		"uniqueTo": "Etruscans",
 		"replaces": "Shrine",
 		"culture": 1,
-  "faith": 1,
+                "faith": 1,
 		"cost": 60,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
