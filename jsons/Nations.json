@@ -91,6 +91,7 @@
                 "cities": ["Tarchuna","Vetluna","Veii","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
                 "Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
+]
 /*{		"name": "Lucania",
 
 	//	"leaderName": "The current elected representative of the kingdom of the Lucani",
@@ -146,4 +147,3 @@
 
 	//	"cities": ["Lucania","Posidonia"]
 	},*/
-]
