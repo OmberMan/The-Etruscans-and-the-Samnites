@@ -16,14 +16,14 @@
 	{
 		"name": "Italic City Guard",
 		"uniqueTo": "Etruscans"
-		"replaces": "Swordsman",
+		"replaces": "Spearman",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 13,
-		"cost": 80,
-		"requiredTech": "Iron Working",
+		"strength": 11,
+		"cost": 60,
+		"requiredTech": "Bronze Working",
 		"upgradesTo": "Longswordsman",
-  "uniques": ["[+10]% Strength <when defending>", "[+15]% Strength <within [2] tiles of a [City center]>"],
+  "uniques": ["[+50]% Strength <vs [Mounted] units>", "[+15]% Strength <when defending>", "[+15]% Strength <within [2] tiles of a [City center]>"],
 		"hurryCostModifier": 35,
 		"attackSound": "nonmetalhit",
 		"civilopediaText": [
