@@ -9,6 +9,17 @@
       "requiredTech": "Agriculture"
 },
 {
+                "name": "Sanctuary",
+                "uniqueTo": "The Samnites",
+                "replaces": "Shrine",
+                "happiness": 1,
+                "faith": 1,
+                "cost": 50,
+                "hurryCostModifier": 40,
+                "maintenance": 0,
+                "uniques": ["[+1 Food] from [Sheep] tiles in this city]", "[+1 Food] from [Cattle] tiles [in this city]"]
+        },
+{
         "name": "Taurom Numina",
         "uniqueTo": "The Samnites",
         "requiredBuilding": "Toutíks Kombennio",
@@ -107,10 +118,10 @@
 		"uniqueTo": "Etruscans",
 		"replaces": "Shrine",
 		"culture": 1,
-                "faith": 1,
-		"cost": 60,
+  "faith": 1,
+		"cost": 70,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["[+1 Happiness] per [4] population [in this city]", "Gain [80] [Faith] (modified by game speed) <upon entering a new era>"]
+		"uniques": ["[+1 Happiness] per [4] population [in this city]", "[+1 Happiness] per every [200] [Gold]", "Gain [80] [Faith] (modified by game speed) <upon entering a new era>"]
 	},
 ]
