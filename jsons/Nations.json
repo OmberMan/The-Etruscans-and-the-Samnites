@@ -19,15 +19,15 @@
 
 	"startIntroPart2": "D \nO \nM \nI \nA \nT \nI \nO \nN \nLook it uu pp! \nOh you gonna cry? \nYoU gOnNa CrY nOw?",
 		
-		"declaringWar": "Your wicked intentions and constant transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
+		"declaringWar": "Your wicked transgressions towards our Oscan brethren ends today! Samnite Federation, M-M-M-Morph Up!",
 
 		"attacked": "The Divine Winds blow in my favor little man. You will not be walking away from this one.",
 
-		"defeated":  "Ohh, Gods forgive me. All is lost...",
+		"defeated":  "Oh, Gods forgive me. All is lost...",
 
-		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirit, and we will get along fine.",
+		"introduction":  "We are the free peoples of the Samnite Federation. Respect our peoples, our land, and it's spirits, and we'll get along fine.",
 
-		"neutralHello": "The Samnite federation greets you, foreign emissary.",
+		"neutralHello": "The Samnite federation greets you, emissary.",
 
 		"neutralLetsHearIt": ["Yes.","Let's discuss."],
 
@@ -35,7 +35,7 @@
 
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 
-		"hateHello": "Grrr... Speak if you must. \nThough if you call us Sabines I will shit in your villa.",
+		"hateHello": "If you call us Sabines I will shit in your villa.",
 
 		"hateLetsHearIt": ["Speak!"],
 
@@ -72,22 +72,22 @@
         "startIntroPart2": "",
 
         "declaringWar": "Unfortunately, your time has come; it is foretold in the stars.",
-                "attacked": "Hm. Another unenlightened upstart thinks themselves the ones to finally supercede us, \nthe venerable Etruscans, after a millennia. \nHow unsuprising.",
+                "attacked": "Hm. Another upstart think they're the ones to finally supercede the venerable Etruscans, after a millennia. \nUnsuprising.",
                 "defeated": "When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy",
-                "introduction": "I am Tyrrhenus, and you are in my slice  Eturia. \nFear not, for you came to a land of civilization and hospitality."
+                "introduction": "I am Tyrrhenus, and you are in my slice of Eturia. \nFear not, for this is a land of civilization and hospitality."
                 "neutralHello": "Help I cannot stop yapping.", 
 /*"When I'm out there all alone \nAnd feeling far from home \nI'm fading into blue \nAnd there's nothing I can do Then out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
                 "hateHello": "Oh... it's you people. \nCan't you find someone less wealthy to pester?",
 /*"When I'm far out in the night \nAnd searching for a light \nThere's darkness all around \nAnd you're nowhere to be found \nThen out on the sky like a flash \nSending me high, high, high \nYou rescue me \nYou saved me from a certain tragedy \nI get messages from the stars \nWhen you're making love to me \nI get messages from the stars \nYou must be from another galaxy"*/
-                "tradeRequest": "Come sit with us to talk trade, for nothing's more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nAhaa, we're fun, \nwe have fun here.",
+                "tradeRequest": "Let us talk trade, for nothing's more fruitful than a civilized discussion, trust us. \nOr should I say, Etrust us, ah...? \n\nHaha we're fun \nwe have fun here.",
 
-        "outerColor": [254,222,245],
+        "outerColor": [251,206,240],
         "innerColor": [14,114,244],
 
                 "favouredReligion": "Christianity",
                 "uniqueName": "Italian Ancients",
-	        "uniqueText": "Non-Capital cities suffer -15% [Gold] and [Production] plus -25% [Production] of military land units, \nbut get a weaker version of the palace and -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and allied city state yield +40% of their [Gold] output. \n+1 [Gold] and +1 [Culture] from [Marble].",
-                "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+3 Gold, +2 Culture, +2 Production, +2 Science] [in all cities]", "Each city founded increases culture cost of policies [-40]% less than normal", "[+40]% Unhappiness from [Population] [in capital]", "[-40]% Unhappiness from [Population] [in all non-occupied cities]", "[-3 Gold, -2 Culture, -2 Production, -2 Science] [in capital]", "[+25]% [Gold] from City-States", "Allied City-States provide [Gold] equal to [40]% of what they produce for themselves", "Militaristic City-States grant units [2] times as fast when you are at war with a common nation", "[-20]% Production when constructing [{Military} {Land}] units [in all cities]", "[+20]% Production when constructing [{Military} {Land}] units [in capital]", "[+2 Gold, +1 Food, +1 Culture] from each Trade Route <when not at war>", "[Great Merchant] is earned [+40]% faster <when not at war>", "[+1 Gold, +1 Culture] from every [Marble]"],
+	        "uniqueText": "Non-Capital cities suffer -15% [Gold] and [Production] plus an extra -15% [Production] of military land units, \nbut get a weaker version of the palace and -40% unhappiness and increase in policy [Culture] cost. \n Great merchants are earned +40% faster and allied city state yield +40% of their [Gold] output. \n+1 [Gold] and +1 [Culture] from [Marble].",
+                "uniques": ["[-15]% [Gold] [in all cities]", "[-15]% [Production] [in all cities]", "[+15]% [Production] [in capital]", "[+15]% [Gold] [in capital]", "[+3 Gold, +2 Culture, +1 Production, +1 Science, +1 Food] [in all cities]", "Each city founded increases culture cost of policies [-40]% less than normal", "[+40]% Unhappiness from [Population] [in capital]", "[-40]% Unhappiness from [Population] [in all non-occupied cities]", "[-3 Gold, -2 Culture, -1 Production, -1 Science, -1 Food] [in capital]", "Allied City-States provide [Gold] equal to [40]% of what they produce for themselves", "[-15]% Production when constructing [{Military} {Land}] units [in all cities]", "[+15]% Production when constructing [{Military} {Land}] units [in capital]", "[Great Merchant] is earned [+40]% faster <when not at war>", "[+1 Gold, +1 Culture] from every [Marble]"],
                 "cities": ["Tarchuna","Vetluna","Veii","Curtna","Aritim","Clevsin","Pupluna","Perusna","Velch","Velathri",
                 "Chaire","Velzna","Birent","Arimna","Kainua","Manthva","Muthna","Pathva","Nula","Capeva"]
     },
