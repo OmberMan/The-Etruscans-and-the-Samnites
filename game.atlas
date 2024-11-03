@@ -4,35 +4,35 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Abrunu Pagi
+BuildingIcons/Abrunu Numen
   rotate: false
   xy: 1575, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Aurochs Pagi
+BuildingIcons/Aurochs Numen
   rotate: false
   xy: 740, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Kaprus Pagi
+BuildingIcons/Kaprus Numen
   rotate: false
   xy: 1647, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Cervum Pagi
+BuildingIcons/Cervum Numen
   rotate: false
   xy: 740, 20
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Ekvine Pagi
+BuildingIcons/Ekvine Numen
   rotate: false
   xy: 1575, 271
   size: 64, 64
@@ -53,28 +53,28 @@ BuildingIcons/Hypogenum
   orig: 656, 475
   offset: 0, 0
   index: -1
-BuildingIcons/Iuegena Pagi
+BuildingIcons/Iuegena Numen
   rotate: false
   xy: 1719, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Iugena Pagi
+BuildingIcons/Iugena Numen
   rotate: false
   xy: 1719, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Lupus Pagi
+BuildingIcons/Lupus Numen
   rotate: false
   xy: 884, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Taurom Pagi
+BuildingIcons/Taurom Numen
   rotate: false
   xy: 1791, 415
   size: 64, 64
