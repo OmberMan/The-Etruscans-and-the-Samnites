@@ -14,7 +14,7 @@
                 "replaces": "Shrine",
                 "happiness": 1,
                 "faith": 1,
-                "cost": 50,
+                "cost": 40,
                 "hurryCostModifier": 40,
                 "maintenance": 0,
                 "uniques": ["[+1 Food] from [Sheep] tiles in this city]", "[+1 Food] from [Cattle] tiles [in this city]"]
@@ -26,7 +26,7 @@
         "cost": 4,
         "isNationalWonder": true,
         "cannotBeBuiltWith": ["Kaprus Numina", "Cervum Numina", "Aurochs Numina", "Ekvine Numina", "Lupus Numina", "Abrunu Numina", "Iuegena Numina"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+25]% Production when constructing [Military] units [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Taurom] promotion", "Must have an owned [Cattle] within [3] tiles", "[+1 Faith] from [Cattle] tiles [in this city]", "[+20]% Production when constructing [Military] units [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 {
@@ -37,7 +37,7 @@
         "cityStrength": 5,
         "isNationalWonder": true,
         "cannotBeBuiltWith": ["Taurom Numina", "Cervum Numina", "Aurochs Numina", "Ekvine Numina", "Lupus Numina", "Abrunu Numina", "Iuegena Numina"],
-        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+45]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
+        "uniques": ["All newly-trained [{Melee} {Land}] units [in this city] receive the [Kaprae] promotion", "Must have an owned [Sheep] within [3] tiles", "[+1 Faith] from [Sheep] tiles [in this city]", "[+35]% Food is carried over after population increases [in this city]", "Peeslúm", "Only available <in cities without a [Peeslúm]>"],
         "requiredTech": "Agriculture"
     },
 {
@@ -107,10 +107,10 @@
 		"maintenance": 0,
                 "cost": 100,
 		"hurryCostModifier": 100,
-		"uniques": ["Unsellable", "Gain [140] [Gold] (modified by game speed)", "Gain [40]-[160] [Culture]", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Cost increases by [20] per owned city", "Excess Food converted to Production when under construction", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured"],
+		"uniques": ["Unsellable", "Gain [140] [Gold] (modified by game speed)", "Gain [40]-[160] [Culture]", "[+1 Food, +1 Culture, +1 Faith, +1 Happiness] [in this city] <during We Love The King Day>", "Cost increases by [20] per owned city", "Excess Food converted to Production when under construction", "Destroyed when the city is captured", "Doubles Gold given to enemy if city is captured", "Gain [80] [Faith] (modified by game speed) <upon entering a new era>" ],
 		"requiredTech": "Construction",
 		"civilopediaText": [
-			{"text": "Don't say it. Don't even think it. If you do this mod will crash your game, and all your save files will explode. I'm warning you."},
+			{"text": "Don't say it. Don't even think it. If you do this mod will crash your game and all your save files will explode. I'm warning you."},
         ]
 	},
 {
@@ -122,6 +122,6 @@
 		"cost": 70,
 		"hurryCostModifier": 40,
 		"maintenance": 2,
-		"uniques": ["[+1 Happiness] per [4] population [in this city]", "[+1 Happiness] per every [200] [Gold]", "Gain [80] [Faith] (modified by game speed) <upon entering a new era>"]
+		"uniques": ["[+1 Happiness] per [4] population [in this city]", "[+1 Happiness] per every [200] [Gold]"]
 	},
 ]
