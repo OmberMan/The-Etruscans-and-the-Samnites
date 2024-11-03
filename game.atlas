@@ -4,35 +4,35 @@ size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Abrunu Numen
+BuildingIcons/Abrunu Numina
   rotate: false
   xy: 1575, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Aurochs Numen
+BuildingIcons/Aurochs Numina
   rotate: false
   xy: 740, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Kaprus Numen
+BuildingIcons/Kaprus Numina
   rotate: false
   xy: 1647, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Cervum Numen
+BuildingIcons/Cervum Numina
   rotate: false
   xy: 740, 20
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Ekvine Numen
+BuildingIcons/Ekvine Numina
   rotate: false
   xy: 1575, 271
   size: 64, 64
@@ -53,28 +53,28 @@ BuildingIcons/Hypogenum
   orig: 656, 475
   offset: 0, 0
   index: -1
-BuildingIcons/Iuegena Numen
+BuildingIcons/Iuegena Numina
   rotate: false
   xy: 1719, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Iugena Numen
+BuildingIcons/Iugena Numina
   rotate: false
   xy: 1719, 415
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Lupus Numen
+BuildingIcons/Lupus Numina
   rotate: false
   xy: 884, 92
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
-BuildingIcons/Taurom Numen
+BuildingIcons/Taurom Numina
   rotate: false
   xy: 1791, 415
   size: 64, 64
@@ -95,7 +95,7 @@ NationIcons/The Samnites
   orig: 64, 64
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Units/Italic City Guard
+TileSets/FantasyHex/Units/Tyrrhenian Hoplite
   rotate: false
   xy: 1311, 183
   size: 32, 32
@@ -109,7 +109,7 @@ TileSets/FantasyHex/Units/Sabellian Warrior
   orig: 32, 32
   offset: 0, 0
   index: -1
-UnitIcons/Italic City Guard
+UnitIcons/Tyrrhenian Hoplite
   rotate: false
   xy: 1311, 223
   size: 256, 256
