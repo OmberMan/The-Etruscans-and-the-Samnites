@@ -14,7 +14,7 @@
         "attackSound": "metalhit"
     },
 	{
-		"name": "Italic City Guard",
+		"name": "Tyrrhenian Hoplite",
 		"uniqueTo": "Etruscans"
 		"replaces": "Spearman",
 		"unitType": "Sword",
